@@ -17,6 +17,8 @@ function cariModus(arr) {
     }
     
 
+    
+
     console.log(cariModus([10, 4, 5, 2, 4])); // 4
     console.log(cariModus([5, 10, 10, 6, 5])); // 5
     console.log(cariModus([10, 3, 1, 2, 5])); // -1
