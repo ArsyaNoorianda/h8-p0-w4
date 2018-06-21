@@ -46,13 +46,25 @@ var age = 0
     hasilArr.push(hasilObj) ;
 
     
-
-   
+    console.log((i+1)+'. '+arr[i][0]+' '+arr[i][1]+':');
     console.log(hasilArr[i]);
+
+
+hasilObj = {};
+   
+    
     
    
 }
  
+    
+     
+   
+  
+
+
+
+      
 
 
 }
